@@ -65,6 +65,16 @@ zip -r codespace-export.zip . -i '*.java'
 
 <br>
 
+Alternativ können Sie das Repo auf "forken", also eine Kopie davon in Ihrem eigenen GitHub-Account anlegen,
+so dass geänderte Dateien nach einem Commit darin
+gepusht werden können.
+
+<br>
+
+![Screenshot 6](screenshots/screenshot_6.png)
+
+<br>
+
 ----
 
 ## Kostenloses Nutzungskontingent ##

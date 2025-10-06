@@ -37,13 +37,40 @@ Unter https://github.com/codespaces können Sie den Codespace stoppen, damit der
 
 Auf dieser Seite können Sie auch den Codespace wieder starten.
 
-Standardmäßig werden inaktive Codespace-Instanzen nach 30 Tagen gelöscht, damit gehen auch darin angelegte
-Dateien verloren.
+<br>
+
+----
+
+## Sicherung der Dateien ##
+
+<br>
+
+Standardmäßig werden inaktive Codespace-Instanzen nach 30 Tagen gelöscht, damit gehen auch alle Datei-Änderungen (z.B. neue Java-Dateien) verloren.
+
+Einzelnen Dateien können im Explorer rechts durch den Kontextmenü-Eintrag "Herunterladen ..." auf den lokalen Rechner heruntergeladen werden:
+
+<br>
+
+![Screenshot 5](screenshots/screenshot_5.png)
+
+<br>
+
+Sie können auch den folgenden Befehl im "Terminal"-Fenster unten auszuführen, um alle Java-Dateien
+im Workspace in eine ZIP-Datei im Wurzelverzeichnis des Code-Space zu erzeugen, die dann auch mit
+dem Kontextmenü-Eintrag "Herunterladen ..." auf den lokalen Rechner heruntergeladen werden können:
+
+```
+zip -r codespace-export.zip . -i '*.java'
+```
 
 <br>
 
 ----
 
-Mit einem kostenlosen GitHub-Account sind 120 Kernstunden/Monat an Codespace-Nutzung enthalten (Achtung: der Codespace hat mindestens 2 CPU-Kerne, pro Stunde Laufzeit werden also zwei Kernstunden verbraucht); bei einem Pro-Account (z.B. kostenloser Studenten-Account) sind es 180 Kernstunden/Monat. ( [Quelle](https://docs.github.com/de/billing/concepts/product-billing/github-codespaces#free-quota))
+## Kostenloses Nutzungskontingent ##
+
+<br>
+
+Mit einem kostenlosen GitHub-Account sind 120 Kernstunden/Monat an Codespace-Nutzung enthalten (Achtung: der Codespace hat mindestens 2 CPU-Kerne, pro Stunde Laufzeit werden also zwei Kernstunden verbraucht); bei einem Pro-Account (z.B. kostenloser Studenten-Account) sind es 180 Kernstunden/Monat. ([Quelle](https://docs.github.com/de/billing/concepts/product-billing/github-codespaces#free-quota))
 
 <br>

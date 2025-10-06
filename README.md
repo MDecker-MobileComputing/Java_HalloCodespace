@@ -1,9 +1,11 @@
-# Java: HalloCodespace #
+# Java-Projekt in GH Codespace *
 
 <br>
 
-Demo/Vorlage für Java-Programmierung in einem *GitHub Codespace* (Instanz von *Visual Studio Code*,
-die im Web-Browser benutzt werden kann).
+Demo/Vorlage für Java-Programmierung in einem *GitHub Codespace*.
+Hierbei handelt es sich um eine vollständige Cloud-Entwicklungsumgebung mit einer virtuellen Maschine,
+die *Visual Studio Code* im Web-Browser bereitstellt und alle notwendigen Entwicklungswerkzeuge
+wie den Java-Compiler enthält.
 
 <br>
 
@@ -81,6 +83,9 @@ gepusht werden können.
 
 <br>
 
-Mit einem kostenlosen GitHub-Account sind 120 Kernstunden/Monat an Codespace-Nutzung enthalten (Achtung: der Codespace hat mindestens 2 CPU-Kerne, pro Stunde Laufzeit werden also zwei Kernstunden verbraucht); bei einem Pro-Account (z.B. kostenloser Studenten-Account) sind es 180 Kernstunden/Monat. ([Quelle](https://docs.github.com/de/billing/concepts/product-billing/github-codespaces#free-quota))
+Mit einem kostenlosen GitHub-Account sind 120 Kernstunden/Monat an Codespace-Nutzung enthalten
+(Achtung: der Codespace hat mindestens 2 CPU-Kerne, pro Stunde Laufzeit werden also zwei Kernstunden verbraucht);
+bei einem Pro-Account (z.B. kostenloser Studenten-Account) sind es 180 Kernstunden/Monat.
+([Quelle](https://docs.github.com/de/billing/concepts/product-billing/github-codespaces#free-quota))
 
 <br>

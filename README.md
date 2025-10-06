@@ -1,4 +1,4 @@
-# Java-Projekt in GH Codespace *
+# Java-Projekt in GH Codespace #
 
 <br>
 
@@ -38,6 +38,8 @@ Unter https://github.com/codespaces können Sie den Codespace stoppen, damit der
 ![Screenshot 4](screenshots/screenshot_4.png)
 
 Auf dieser Seite können Sie auch den Codespace wieder starten.
+
+Eine Codespace-Instanz sollte nach einiger Zeit der Inaktivität automatisch heruntergefahren werden, aber hierauf sollten Sie sich besser nicht verlassen.
 
 <br>
 

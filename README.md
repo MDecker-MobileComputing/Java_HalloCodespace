@@ -70,12 +70,16 @@ zip -r codespace-export.zip . -i '*.java'
 <br>
 
 Alternativ können Sie das Repo auf "forken", also eine Kopie davon in Ihrem eigenen GitHub-Account anlegen,
-so dass geänderte Dateien nach einem Commit darin
-gepusht werden können.
+so dass geänderte Dateien nach einem Commit darin gepusht werden können.
 
 <br>
 
 ![Screenshot 6](screenshots/screenshot_6.png)
+
+<br>
+
+Im Falle eines eigenen Repos sollte die Sichtbarkeit von "Public" auf "Private" geändert werden, siehe auch
+[hier](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility#changing-a-repositorys-visibility).
 
 <br>
 

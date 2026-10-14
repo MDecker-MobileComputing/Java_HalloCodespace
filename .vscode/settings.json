@@ -1,0 +1,4 @@
+{
+  // Schaltet den Java Language Server auf Standard Mode, damit Run/Debug ueber main-Methoden eingeblendet werden.
+  "java.server.launchMode": "Standard"
+}

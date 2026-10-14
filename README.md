@@ -21,7 +21,7 @@ Dieses Repo in Codespace starten:
 
 <br>
 
-Sobald der Codespace gestartet ist, muss der "Java language server" auf "Standard mode" umgeschaltet werden:
+Wenn der Codespace das erste Mal gestartet ist, dann müssen Sie auf "Ordner vertrauen und fortfahren" klicken:
 
 ![Screenshot 2](screenshots/screenshot_2.png)
 
